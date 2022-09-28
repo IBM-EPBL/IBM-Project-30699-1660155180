@@ -13,7 +13,7 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 <ul><i>
   <li> Tamil Mani P</li>
-  <li> Saravana P B </li>
+  <li> Saravana Kumar P B </li>
   <li> Suriya Raaj P </li>
   <li> Srikanth M U </li>
   </i>
