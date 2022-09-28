@@ -19,14 +19,13 @@
   </i>
   </ul>
 <br>
-<h2>📃 Abstract:</h2><i>
-<ul>
-<li>Students are often worried about their chances of admission to University. </li>
-<li>The aim of this project is to help students in shortlisting universities with their profiles. </li>
-<li>The predicted output gives them a fair idea about their admission chances to a particular university. </li>
-<li>This analysis should also help students who are currently preparing or will be preparing to get a better idea. </li>
-  </i>
-  </ul>
+<h2>📃 Project Description :</h2><i>
+<p>
+  Over the last twenty years, air travel has been increasingly preferred among travelers, mainly because of its speed and in some cases comfort. This has led to phenomenal growth in air traffic and on the ground. An increase in air traffic growth has also resulted in massive levels of aircraft delays on the ground and in the air. These delays are responsible for large economic and environmental losses. The main objective of the model is to predict flight delays accurately in order to optimize flight operations and minimize delays.
+
+  Using a machine learning model, we can predict flight arrival delays. The input to our algorithm is rows of feature vector like departure date, departure delay, distance between the two airports, scheduled arrival time etc. We then use decision tree classifier to predict if the flight arrival will be delayed or not. A flight is considered to be delayed when difference between scheduled and actual arrival times is greater than 15 minutes. Furthermore, we compare decision tree classifier with logistic regression and a simple neural network for various figures of merit.
+
+</p>
 <br>
   
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
