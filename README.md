@@ -1,7 +1,4 @@
-# IBM-Project-30699-1660155180
-Developing a Flight Delay Prediction Model using Machine Learning
 
-<br>
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"  align="center" alt="drawing" width="200" />
   <h2 align="center"> Developing a Flight Delay Prediction Model using Machine Learning <br></h2>
