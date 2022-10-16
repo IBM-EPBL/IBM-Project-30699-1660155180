@@ -43,13 +43,12 @@
 
   </div>
  <br>
-  
-  <!-- tasks -->
-  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
-  
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-    
+<h2>Link: </h2>
+<ul><i>
+  <li></li>
+  <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Assessments">Assignments</a></li>
+  <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase">Ideation Phase</a></li>
+  <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%201">Project Design Phase 1</a></li>
+    <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%202">Project Design Phase 2</a></li>
+  </i>
+  </ul>
