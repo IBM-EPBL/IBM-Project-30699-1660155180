@@ -43,9 +43,8 @@
 
   </div>
  <br>
-<h2>Link: </h2>
+<h2>Links: </h2>
 <ul><i>
-  <li></li>
   <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Assessments">Assignments</a></li>
   <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase">Ideation Phase</a></li>
   <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%201">Project Design Phase 1</a></li>
