@@ -49,9 +49,9 @@
   <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase">Ideation Phase</a></li>
   <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%201">Project Design Phase 1</a></li>
     <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%202">Project Design Phase 2</a></li>
-    <li> <a href="<li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%202">Project Planning</a></li>
-   <li> <a href="<li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%201">Development Phase: SPRINT 1</a></li>
-   <li> <a href="<li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%202">Development Phase: SPRINT 2</a></li>
-   <li> <a href="<li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%201">Development Phase: SPRINT 1</a></li>
-   <li> <a href="<li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%201">Development Phase: SPRINT 1</a></li>
+    <li> <a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%202">Project Planning</a></li>
+   <li><a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%201">Development Phase: SPRINT 1</a></li>
+   <li><a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%202">Development Phase: SPRINT 2</a></li>
+   <li><a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%203">Development Phase: SPRINT 3</a></li>
+   <li><a href="https://github.com/IBM-EPBL/IBM-Project-30699-1660155180/tree/main/Project%20Development%20Phase/Sprint%204">Development Phase: SPRINT 4</a></li>
   </ul>
