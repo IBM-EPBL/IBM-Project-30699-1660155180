@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+<h2>{{predict_str}}</h2> 
+
+<button class="btn btn-link" type="submit"><a hef="/prediction">Predict Again</a></button>
+
+<style>  
+    input{
+        -webkit-text-fill-color:gray;
+    } 
+    .checkbox{
+        -webkit-text-fill-color: gray;
+    }
+    button{
+        background-color: black  !important;
+    } 
+    button a:hover{
+        color:aqua !important;
+    } 
+    option{ 
+        color:black; 
+        background-color:white;
+    } 
+    option :hover{
+        background-color:aqua !important;
+    }
+</style>  
+{% endblock %}

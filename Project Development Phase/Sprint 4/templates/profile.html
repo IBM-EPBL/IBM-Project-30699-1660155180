@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1 class="title">
+    Welcome, {{ name }}!
+    Lets Predict if your flight will be delayed or not!!!
+</h1>
+
+<button type="button" class="btn btn-link"><a href="/prediction">Lets Go!</a></button>
+
+<style> 
+button{
+    background-color: black  !important;
+} 
+button a:hover{
+    color:aqua !important;
+}
+</style>
+
+
+
+
+
+{% endblock %}
