@@ -1,0 +1,22 @@
+to create environment---
+python -m venv env  
+
+to activate environment---
+env\scripts\activate  
+
+to upgrade pip----------
+python.exe -m pip install --upgrade pip
+
+to install libraries---
+pip install -r requirements.txt --no-cache-d
+
+to freeze requirements----
+pip freeze > requirements.txt
+
+to run the flask application in windows----
+in terminal, make sure the cmd is pointing to the parent directory----- 
+set FLASK_APP=project
+set FLASK_DEBUG=1
+flask run 
+
+

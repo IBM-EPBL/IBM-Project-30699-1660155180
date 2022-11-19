@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% block content%} 
+
+
+<div class="column is-4 is-offset-4">
+    <h3 class="title">Enter the details of your scheduled flight</h3> 
+    <div class="box">
+        <form method="POST" action="" class="">
+            <p>Enter the Date of the Flight:</p> 
+            <div class="input-field">
+                <input name="date_flight" input type='date'  required>  
+                
+            </div>
+            <p>Enter the Departure Time in 24 hour format:</p> 
+        
+            <input name="time_flight" input type='time' value='13:45:00' step='1'  required> 
+        
+            <p>Enter the Source:</p>
+        <!--input name="source" required-->
+       
+            <select name="source" id="source" class="form-select" >
+                <option value="ATL">ATL-Hartsfield-Jackson Atlanta International Airport, Atlanta</option>
+                <option value="JFK">JFK-John F kennedy International Airport, New York</option>
+                <option value="DTW">DTW-Detroit Metropolitan Wayne County Airport-Detroit, Michigan</option>
+                <option value="MSP">MSP-Minneapolis−Saint Paul International Airport, Minnesota</option>
+                <option value="SEA">SEA-Seattle-Tacoma International Airport, Washington</option>
+            </select>
+            <br>
+            <p>Enter the Destination:</p>
+            <select name="destination" id="source" class="form-select">
+                <option value="ATL">ATL-Hartsfield-Jackson Atlanta International Airport, Atlanta</option>
+                <option value="JFK">JFK-John F kennedy International Airport, New York</option>
+                <option value="DTW">DTW-Detroit Metropolitan Wayne County Airport-Detroit, Michigan</option>
+                <option value="MSP">MSP-Minneapolis−Saint Paul International Airport, Minnesota</option>
+                <option value="SEA">SEA-Seattle-Tacoma International Airport, Washington</option>
+            </select>
+
+            <br>
+            <br>
+            <!--button class="button is-block is-info is-large is-fullwidth" type="submit" >Submit</button-->
+            <button class="btn btn-link" type="submit">Predict</button>
+    </form> 
+    </div>
+</div>
+<style>  
+    input{
+        -webkit-text-fill-color:gray;
+    } 
+    .checkbox{
+        -webkit-text-fill-color: gray;
+    }
+    button{
+        background-color: black  !important;
+    } 
+    button a:hover{
+        color:aqua !important;
+    } 
+    option{ 
+        color:black; 
+        background-color:white;
+    } 
+    option :hover{
+        background-color:aqua !important;
+    } 
+    p{
+        text-align:left;
+
+    }
+</style>  
+
+
+
+{% endblock %}
